@@ -1,0 +1,6 @@
+Go to your personalized folder
+Go to address bar
+type -> powershell jupyter-notebook
+
+for jupyter-lab
+type -> powershell jupyter-lab
